@@ -1,6 +1,6 @@
 {
   "name": "language-conky",
-  "version": "0.1",
+  "version": "0.0.0",
   "description": "Adds language support for conky configuration files",
   "repository": "https://github.com/TheLoko/language-conkyq",
   "license": "GPL v3.0",
