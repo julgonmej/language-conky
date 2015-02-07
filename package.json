@@ -1,0 +1,11 @@
+{
+"name": "language-conky",
+"version": "0.1",
+"description": "Adds language support for conky configuration files",
+"repository": "https://github.com/TheLoko/language-conky",
+"license": "GPL v3.0",
+"engines": {
+"atom": "*"
+},
+"dependencies": {}
+}
